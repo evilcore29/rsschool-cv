@@ -26,7 +26,7 @@ I work for a company that develops software for efficient call centers. My goal 
 
 [Solution for codewars kata](https://www.codewars.com/kata/5503013e34137eeeaa001648)
 
-```
+```js
 const diamond = ({ number }) => {
   if (number % 2 === 0 || number <= 0 || !number) return null;
 
