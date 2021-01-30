@@ -63,3 +63,36 @@ const diamond = ({ number }) => {
 ```
 
 ---
+
+## Experience
+
+- Database adminnistrator at "Экестросервис и Ко"
+- Junior Frontend developer at [dealapp.io](https://dealapp.io)
+
+---
+
+## Education
+
+I have specialized secondary education, and i’m self-studying in frontend.
+
+### Courses
+
+- IT-step (Minsk)
+- Stepik:
+  - Программирование начального уровня. JavaScript
+  - Основы Git
+  - JavaScript для начинающих
+  - Jira: ведение задач на электронных досках
+  - Веб-разработка для начинающих: HTML и CSS
+  - Введение в базы данных
+  - Hexlet: Введение в программирование (JavaScript ES6)
+  - Введение в Linux
+- Freecodecamp:
+  - Responsive Web Design Certification
+  - JavaScript Algorithms and Data Structures Certification
+
+---
+
+## Languages
+
+English - Elementary
