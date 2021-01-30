@@ -58,7 +58,7 @@ const diamond = ({ number }) => {
 
 ## Experience
 
-- Database adminnistrator at "Экестросервис и Ко"
+- Database administrator at "Электросервис и Ко"
 - Junior Frontend developer at [dealapp.io](https://dealapp.io)
 
 ## Education
