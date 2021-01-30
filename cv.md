@@ -4,13 +4,9 @@
 
 [Linkedin](https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%B2-60b6001a1/) 
 
----
-
 ## Summary
 
 I work for a company that develops software for efficient call centers. My goal for this course is to improve my core-js knowledge for more productive work.
-
----
 
 ## Skills
 
@@ -25,8 +21,6 @@ I work for a company that develops software for efficient call centers. My goal 
 
 - PHP, SQL, MySQL
 - nodejs, express, axios, npm, yarn, heroku, i18n
-
----
 
 ## Code Examples
 
@@ -62,14 +56,10 @@ const diamond = ({ number }) => {
 }
 ```
 
----
-
 ## Experience
 
 - Database adminnistrator at "Экестросервис и Ко"
 - Junior Frontend developer at [dealapp.io](https://dealapp.io)
-
----
 
 ## Education
 
@@ -90,8 +80,6 @@ I have specialized secondary education, and i’m self-studying in frontend.
 - Freecodecamp:
   - Responsive Web Design Certification
   - JavaScript Algorithms and Data Structures Certification
-
----
 
 ## Languages
 
