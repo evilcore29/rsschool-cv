@@ -1,1 +1,1 @@
-[https://evilcore29.github.io/rsschool-cv/cv](https://evilcore29.github.io/rsschool-cv/cv)
+[https://evilcore29.github.io/rsschool-cv/cv](https://evilcore29.github.io/rsschool-cv)
