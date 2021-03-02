@@ -1,21 +1,21 @@
 @font-face {
     font-family: Roboto_Light;
-    src: url(/assets/fonts/Roboto-Light.ttf);
+    src: url(/rsschool-cv/assets/fonts/Roboto-Light.ttf);
 }
 
 @font-face {
     font-family: Roboto_Regular;
-    src: url(/assets/fonts/Roboto-Regular.ttf);
+    src: url(/rsschool-cv/assets/fonts/Roboto-Regular.ttf);
 }
 
 @font-face {
     font-family: Roboto_Bold;
-    src: url(/assets/fonts/Roboto-Bold.ttf);
+    src: url(/rsschool-cv/assets/fonts/Roboto-Bold.ttf);
 }
 
 @font-face {
     font-family: Roboto_Black;
-    src: url(/assets/fonts/Roboto-Black.ttf);
+    src: url(/rsschool-cv/assets/fonts/Roboto-Black.ttf);
 }
 
 body {
@@ -47,7 +47,7 @@ aside {
 
 .avatar {
     width: 100%;
-    background-image: url('/assets/images/photo.jpg');
+    background-image: url('/rsschool-cv/assets/images/photo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
